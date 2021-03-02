@@ -1,6 +1,6 @@
 // 載入 HTTP 模組
 var http = require("http");
-
+// fuck
 // 創建 HTTP 伺服器並監聽8000 port
 http.createServer(function(request, response) {
 
